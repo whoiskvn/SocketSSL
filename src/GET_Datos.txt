@@ -1,0 +1,6 @@
+
+
+
+Este es un archivo de texto enviado desde el cliente
+
+Este es un archivo modificado desde el Servidor en Ubuntu
